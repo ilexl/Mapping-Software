@@ -1,6 +1,3 @@
-[submodule "third-party/libosmium"]
-	path = third-party/libosmium
-	url = https://github.com/osmcode/libosmium.git
 [submodule "third-party/vcpkg"]
 	path = third-party/vcpkg
 	url = https://github.com/microsoft/vcpkg.git
