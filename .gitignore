@@ -6,6 +6,7 @@
 
 # Ignore all .osm files in the data/ folder
 /data/*.osm
+/data/*.pbf
 
 # Make sure the data/ folder itself is still tracked
 !data/
