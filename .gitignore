@@ -1,0 +1,10 @@
+/.vs/
+
+# Ignore build artifacts
+/build/
+
+# Ignore all .osm files in the data/ folder
+/data/*.osm
+
+# Make sure the data/ folder itself is still tracked
+!data/
